@@ -1,0 +1,33 @@
+Usability and acesibility
+
+1. ACCESIBILITY:-it means that all the members of the target audiance group have equal access to the product.
+2. A design is regarded as usable if it is effective, responsive and interactive , thus giving an overall satisfying experience to the audience.
+
+->accesibility UX design principless:-
+   1. Empathy
+   2.User researh
+   3.inclusivity
+   4.control on navigation
+   5.context 
+
+->asscesibility guidelines for UX designer
+  1. create user personas
+  2. Design for all platforms and devices 
+  3. Organize the content logically 
+  4. Ensure consistency in design
+  5. Use accessible fonts 
+  6. choose appropriate color contrast 
+  7. include text for media content
+  8. Probide transcriptions and subtitles 
+  9. Avoid excessive animation
+  10.Ensure meaningful anchor text 
+  11.Use proper heading and HTML tags 
+  12.Make the design screen-reader friendly
+  13.Include keyboard shortcuts 
+  14.Use accesibility tolls
+  15.Test with difeerent users
+
+
+
+
+

@@ -1,0 +1,30 @@
+Good afternoon, everyone.  I'm excited to share with you my project on designing a user-centric cryptocurrency exchange platform.
+from designer i was not able to get more information is because i didn't find anyone 
+
+ For this project, I aimed to bridge the gap between user expectations in the crypto exchange market and the expertise of designers. 
+so when i asked them about apps and website they said app is more relvent but why are they not able ti use it is because they need to see big graph
+i also want to make it usable for blind people by giving prompts, so for that i need to think more about about it 
+ 
+My research highlighted the preference for mobile devices due to the need for daily updates, which led us to choose a mobile app over a website. Security emerged as a top priority, with users expressing the importance of features like two-factor authentication and cold storage. Notifications, educational resources, and social trading were also key considerations.
+
+
+platform that not only meets the functional needs of users but also exceeds their expectations in terms of usability, security, and innovation
+
+
+
+
+clarity
+adressing the challenges
+objective
+relevence process (complete idea )
+report
+
+
+crypt exchange device:-graphs and currency are big 
+prefer : app :-need to get good data in smaller scale
+it holds lot of money : security
+user- pass. and two-authetication 
+notification:new currencies, set alerts on prices, security risk arise
+need to configure particular currency  trader on monthlu weekly basis.
+
+reserch : miro fitchap
