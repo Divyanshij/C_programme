@@ -1,0 +1,42 @@
+JAVA
+1.GARBAGE COLLETOR:-it performsautomatic memory management, takes the garbage values [ mark and sweep algorithm=>depth first search.
+=>parallele garbage collector.
+garbage collector in java ids not directle implementd by logic gates but it is a feature prpovided by JVM.
+2.JAVA VIRTUAL MACHINE(JVM):-itacts as run time engine to run java code .
+3. javabytecode : it is a instruction set of JVM ,it is represented by single byte .
+4. ARRAY HAVE DYNAMIC ALLOCATION.
+5. array can be an empty array also 
+
+
+java is object orianted language 
+(hoops)
+1. class
+2. encapsulated
+3. object
+4. polymorphism
+5. inheritance:program can have more than one class and single class have ability to inherit other class  
+IMPORTANCE:REUSE , REDUCE COMPLEXITY/SIZE/SPACE/TIME.
+class a{
+string N
+}
+class b{
+  
+}
+class c{
+
+}
+SINGLE,MULTIPLE,HEIRERCHIAL,HYBRID,MULTI
+
+:SINGLE INHERITANCE:- CLASS A{} CLASS B ---EXTENDS--- A{}
+
+
+6. abstract
+
+class{
+
+method()
+
+}
+
+object().
+
